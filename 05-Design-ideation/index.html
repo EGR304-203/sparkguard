@@ -661,6 +661,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#reflection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reflection
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -930,6 +939,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#reflection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reflection
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1025,6 +1043,10 @@ In this design we originally intended for the charging hub to be protected in an
 We updated our original vision to simplify the operation of the door with a solenoid and a manually operated cover. As you notice in the design, the charging hub changed to a single USB port. We felt that creating a proof of concept for one USB charging port would better fall within the scope of the class project, while still fulfilling user needs.</p>
 <p><strong>Justification:</strong><br>
 While a microphone operated locking mechanism was not a main emphasis of the original user requirements, it fulfills <a href="../04-Product-Requirements/#aspects">requirement 1.2</a> for weather protection, as well as an added implicit need for safety and security.</p>
+<h2 id="reflection">Reflection</h2>
+<p>Because of rescoping our design to fulfill class requirements and limited budget/time, we reduced our initial plan of making a power strip to a single USB port with a microphone activated locking mechanism.</p>
+<p>At the end of our project when we physically built the circuits to verify functionality, we realized that the pull solenoid we purchased was not bidirectional, meaning it could not be actuated in both directions. This meant we couldn't verify that a solenoid will move forward and backward, but a motor can when connected to the same circuit.</p>
+<p>We also realized that solenoids that are truly bidirectional, without a permanent magnet or spring to do the opposite motion of the coil, are used in industrial applications such as <a href="https://www.kendrion.com/en/products-services/solenoids-actuators/linear-solenoids/reversible-linear-solenoids">this one featured on Kendrion, a Dutch industrial actuator/controls company</a>.</p>
 
 
 
