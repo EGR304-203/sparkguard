@@ -4,8 +4,9 @@ tags:
 - tag1
 - tag2
 ---
+# Contents
 
-## Introduction
+# 1. Introduction
 1. What is your group trying to accomplish? 
 > Our group is trying to create an innovative home solution using sensors to make everyday life easier for our target customers.
 2. Who are your target users?
@@ -13,7 +14,19 @@ tags:
 * People single or married, of any age range, and of any level of physical disability, renting or owning the current space they live in, with access to electricity.
 * Children of people renting or owning said space.
 
-## Voice of customer benchmarking
+
+# 2. Description and Evolution of Process
+As per our goal as a team, we began identifying target users and what issues they had with current home solutions. We stumbled upon smart power outlets and conducted six searches into existing products and pros/cons our target users were discussing about, described below in the [Voice of customer (VOC) benchmarking](#1-voice-of-customer-voc-benchmarking) section.
+
+From this study we compiled 55 user needs in [Lucid chart](https://www.lucidchart.com/pages?anonId=0.beede93819af6e9d3b5&sessionDate=2025-12-07T03%3A45%3A20.276Z&sessionId=0.27d3648819af6e9d3b8), each one represented by a numbered sticky note, as shown in the [Compiled List of User Needs](#3-compiled-list-of-user-needs) section.
+
+At this point we needed to group the user needs into general categories, such as durability, safety, etc., then create "meta" user-needs statements that describe each category. We did this so that we can rank all user needs in terms of importance just by ranking five meta-user-needs statements. The meta-statements and ranking justification are shown in the [Categorized List of User Needs](#4-categorized-list-of-user-needs-with-ranking-of-categories) section.
+
+In order to rank the five meta-statements we needed to define our rationale. We mainly used two criteria: 1) Safety and 2) How often is the user need repeated in our VOC benchmarking section. Later on in the project we needed to tweak this further due to class constraints, which reduced a significant amount of features present in the final design and added new functionality discussed in 
+
+Lastly, after the project was completed we decided to do extra research to come up with the 45 more user needs so that we have 100 total. To do this we used Gemini to analyze this page and look for other relevant user needs. These were then filtered and refined to make sure that they were valid, put into sticky notes on draw.io, then grouped into the original categories or any new categories since some of the new needs did not fit into the original. 
+
+# 3. Voice of customer (VOC) benchmarking
 
 ## Search #1
 **Keywords:** "home automation"<br>
@@ -120,14 +133,14 @@ Vendor: Lowes Home Improvement
 
 Description: Four USB ports and four power outlets that are WiFi enabled via a smartphone app. It has Google Assistant, Alexa, and Siri integration. Controllable with voice commands. For indoor appliance use, supports up to 15 amps.
 
-## Positive Comments
+### Positive Comments
 | Voice of customer | Restated Customer Need |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |"This outlet has a lot of potential though the design is not the best. I really like the idea of a smart outlet, especially one which has 4 USB ports, which is critical in the smart phone era. The outlet itself works well - it was easy to set up the smart connectivity (through the app, which is also designed well), and the features through the app are easy to use (turn off certain outlets, timing, etc.). It also syncs with Echo, though it doesn't always work great tbh (the fault is actually on Echo's side to be honest, as the software is not always smart to differentiate between the outlet and other smart devices in the same room). The 3 star review is for the design of the traditional outlets - they are spaced too close to each other! Too many devices today require some kind of a bulky adaptor (including the aforementioned Echos), and unfortunately, once you plug one of those in, you basically have only one space left for anything else. So if you're going to use it close to your bed or a working desk, you should be ok. But it's certainly not optimal for a media unit (with routers, modems, TVs, etc. where a surge-protected power-strip might be a better choice)."  | 1. Needs to have USB ports (explicit).<br><br> 2. User friendly app (latent).<br><br> 3. Outlets need to be well spaced (explicit).
 |"This smart power strip turned out to be a great alternative to in-wall smart switches and smart plugs because it can control each of the 4 outlets plus the USB cluster individually, all in one unit. So I can plug in a lamp, a humidifier and anything else that can stay in the ON position and turn them on or off in the app. The cool part is that it functions the same way through the Feit Electric app as it does in the Alexa app once I linked them. I renamed the outlets and can now turn the lamp on just by asking Alexa to do it. I can also turn off the whole power strip the same way. The Feit app is also easy to set up and use so I had everything up and running in just minutes. The blue LEDs show me which outlet is on at a glance, so there's no guessing when using Alexa. The power strip isn't all that larger than a non-smart power strip either, so it's easy to tuck away."| 1. Individual control of each outlet is desired (latent).<br><br> 2. Voice assistant compatibility (explicit).<br><br> 3. LED light to indicate which outlet is turned on(latent).
 |"This is a cool WiFi power strip, it has all the advantages of a power strip such as circuit protection and a on/off switch, not to mention the ability to plug in 4 outlet and 4 USB items at once. But you also get the advantages of a smart plug or outlet by way of the free app called Feit Electric. The setup is easy and adding or deleting a plugged in item is straightforward. Once you have an item setup on the power strip you can control the on/off state and setup timers to turn the item off and on when needed. You can also setup Alexa or Google so that you can control the power strip items via voice command. I have yet to try it but you should be able to integrate this power strip with other smart home items such as turning the strip off when you leave home and on when you return."|1. Circuit protection (explicit).<br><br> 2. Physical buttons for power activation(explicit).<br><br> 3. Timer functionality (explicit).
 
-## Negative Comments
+### Negative Comments
 | Voice of customer | Restated Customer Need |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |"The smartplug works fine. The only features is wifi on/off and scheduled on/off (e.g. on at 6pm and off at 10pm). Unfortunately, the app does NOT have more advance features - e.g. If you turn a device on, you want it to automatically turn off in 10 mins. (e.g. you forget to turn off your light). Or to have it on "all the time" and to turn off for only 10 mins and automatically on after 10 mins - (e.g. Pumps in an Aquarium during feeding). Other smart plugs have such features. I just wished they incorporated these features. Maybe the company need to hire more creative app designers."| 1. Needs controls for simple functions (explcit).<br><br> 2. Advanced control features are desired (explicit).<br><br> 3. Temporary off and on (explicit).
@@ -147,7 +160,7 @@ Vendor: Home Depot
 
 Description: The Outdoor Grounded 6-Outlet Yard Stake with built in timer turns outdoor lights on and off at set times. The photoelectric eye senses the absence of daylight and automatically turns your lights on and then off after a set amount of hours, or off at dawn according to the schedule you manually set. The light sensor timer has 7 options that repeat daily, on at dusk off at dawn, on at dusk and off after 2, 4, 6, or 8 hours, always on, or always off.
 
-## Positive Comments
+### Positive Comments
 | Voice of customer | Restated Customer Need |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 |"Excellent outdoor light sensor/timer! We've been using one for years, and finally got another to go along with it. The timing part is great, as its presets are pretty much exactly what we want: after it gets dark, how many hours to leave the power going. Of course, we use this for Christmas lights and, on occasion, some festive summer lights. Our original one has been through several years of Pacific NW weather - that is, rain, lots of drizzly rain. And that exposes the biggest downside to this - the cover over the top of the dial gets fogged up easily, so you can't see the insides very well. (It probably also interferes at least a little bit with the light sensing, but not enough for us to take notice.) All in all, this outdoor plus has served us well - so well, in fact, that we recently got another. The original still works great, but we wanted additional lights and available plugs. Highly recommended!"  | 1. Light sensor is needed (explicit).<br><br> 2. Simple timing functions are needed (explicit).<br><br> 3. Cover that is exposed to the elements should allow easy readability of controls (explicit).
@@ -162,7 +175,20 @@ Description: The Outdoor Grounded 6-Outlet Yard Stake with built in timer turns 
 |"Product concept is excellent. It's too bad they used inferior materials through out the construction of the unit, because I would use this all year round if it was built better. **IF** you use this **ONLY** for the Christmas season, one of these will last you about 5 years or so. I have owned mine for 3 years, and it's still working as advertised, but I have mine fastened to a Wreath (Large wreath for the front door) powering the lights on just that ornament. That way, when it's time to put it up, no fuss, just hang it, and plug it in. MUCH easier than trying to "re-dress" the lights every year. When Christmas is over with, it all goes back in the wreath box, and back into storage for the next year. I use the timers, so it doesn't burn all night, and it works perfectly. I suspect the timer will give out first, as it's the only part that is changed all the time, and it's NOT built to last." | 1. Needs to be portable (latent).<br><br> 2. Needs to be light weight(latent).<br><br> 3. Needs weather resistant materials for outdoor(latent).
 
 
-
+# 4. Compiled List of User Needs
 ![User Needs.](egr304_needs_stickynotes.jpg)
 
+# 5. Categorized List of User Needs with Ranking of Categories
 ![User Needs Categorized](egr304_needs_categories_justification.jpg)
+
+# 6. 45 More User Needs
+For this section we used google gemini to help us create more needs based on analyzing our current list and coming up with any additional ones based on what customers were saying. The complete gemini chat and draw.io file for this list is available [here](https://drive.google.com/drive/folders/1HDIeQHs9iNND4QvAeeo-Lr-bEbnG9Egf?usp=sharing).
+
+![User Needs 2](gemini_needs.png)
+
+# 7. Categorized List of 45 More User Needs With Additional Final Ranking
+After generating the initial list and making them into sticky notes on draw.io we grouped them into the original categories/meta-needs and any new ones that were necessary to include.
+
+![gemini_needs_categorized](gemini_needs_categorized.png)
+
+The categorized needs generated by Google Gemini and reasoning as a pdf is available for download [here](gemini_needs_categorized.pdf).

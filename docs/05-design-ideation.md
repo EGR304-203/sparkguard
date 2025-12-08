@@ -59,14 +59,24 @@ Through this process of meeting, documenting, grouping, and ranking, we transfor
 ![Base model sparky charging hub](paragon2.png)<br>**Paragon model figure 2**<br> <br><br><br>
 ![Base model sparky charging hub](paragon3.png)<br>**Paragon model figure 3**<br> <br><br><br>
 
-## Concept Sketches / Design iterations
+## Concept Sketches / Further Design iterations
+### Singular outlet with actuator and door latch
 ![showcase](earlyconcept.jpg)<br>
 **Figure 1:** Our first concept design that was created during our first brainstorming session.<br><br>
 In this design we originally intended for the charging hub to be protected in an enclosure with a door. The door was to be actuated via a DC motor with limit switches controlling when to stop the motor from spining and a H bridge to reverse the direction. While the idea was good for fulfilling class requirements, it did not fulfill our user needs and added more complexity.
 
+### Singular USB port with door latch
 ![showcase](revisedconcept.jpg)<br>
 **Figure 2:** After many internal discussions, our team narrowed down the next evolution of our concept to a feasable and attainable goal.<br><br>
-We updated our original vision to simplify the operation of the door with a solenoid and a manually operated cover. As you notice in the design, the charging hub changed to a single USB port. We felt that creating a proof of concept for one USB charging port would better fall within the scope of the class project, while still fulfilling user needs.
+We updated our original vision to simplify the operation of the door with a push/pull solenoid and a manually operated cover. As you notice in the design, the charging hub changed to a single USB port. We felt that creating a proof of concept for one USB charging port would better fall within the scope of the class project, while still fulfilling user needs.
 
 **Justification:**<br>
 While a microphone operated locking mechanism was not a main emphasis of the original user requirements, it fulfills [requirement 1.2](04-Product-Requirements.md#aspects) for weather protection, as well as an added implicit need for safety and security.
+
+
+## Reflection
+Because of rescoping our design to fulfill class requirements and limited budget/time, we reduced our initial plan of making a power strip to a single USB port with a microphone activated locking mechanism.
+
+At the end of our project when we physically built the circuits to verify functionality, we realized that the pull solenoid we purchased was not bidirectional, meaning it could not be actuated in both directions. This meant we couldn't verify that a solenoid will move forward and backward, but a motor can when connected to the same circuit.
+
+We also realized that solenoids that are truly bidirectional, without a permanent magnet or spring to do the opposite motion of the coil, are used in industrial applications such as [this one featured on Kendrion, a Dutch industrial actuator/controls company](https://www.kendrion.com/en/products-services/solenoids-actuators/linear-solenoids/reversible-linear-solenoids).
