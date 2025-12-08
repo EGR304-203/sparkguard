@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+  <diagram name="Page-1" id="NOJIBYukeq1AGSo8120j">
+    <mxGraphModel dx="2736" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aEzxMFNRf765peS1paN1-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1730" width="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="400" width="860" x="50" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="860" x="990" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="860" x="990" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="860" x="50" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="860" x="50" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="920" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="920" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;45 more user needs grouped and ranking (all latent)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="1130" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="1. Product should not require manual input to toggle power." vertex="1">
+          <mxGeometry height="130" width="100" x="65" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-3" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="2. Product should be burglar proof." vertex="1">
+          <mxGeometry height="130" width="100" x="180" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="3. Any functionality synchronized with sunrise/sunset should update with changing daylight hours." vertex="1">
+          <mxGeometry height="130" width="100" x="300" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-5" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="4. Product needs to react to external data from other apps/services, e.g. weather reports or emails." vertex="1">
+          <mxGeometry height="130" width="100" x="420" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-7" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="5. Product needs to be able to be rapidly and privately controlled without dependence on an external server." vertex="1">
+          <mxGeometry height="130" width="100" x="60" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-9" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="6. Product allows user to define how it reacts to power outages." vertex="1">
+          <mxGeometry height="130" width="100" x="540" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-11" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="7. Product should be just as reliable offline as online if such connectivity exists." vertex="1">
+          <mxGeometry height="130" width="100" x="180" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="8. User should be able to control multiple ports as single functional units." vertex="1">
+          <mxGeometry height="130" width="100" x="660" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="9. The user should be able to define temporary power states as well as predefined schedules, without them altering each other." vertex="1">
+          <mxGeometry height="130" width="100" x="780" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-15" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="10. Product should respond to connected appliances no longer drawing power." vertex="1">
+          <mxGeometry height="130" width="100" x="65" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="11. User can charge high-draw electronics e.g. laptops directly from strip." vertex="1">
+          <mxGeometry height="130" width="100" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-17" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="12. Product should help identify devices that draw power even when they should be off." vertex="1">
+          <mxGeometry height="130" width="100" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-18" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="13. Product should show energy consumption in terms of currency as well as units of energy." vertex="1">
+          <mxGeometry height="130" width="100" x="550" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-19" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="14. Device must protect connected equipment from damage during low-voltage brownouts or high-voltage spikes." vertex="1">
+          <mxGeometry height="130" width="100" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="15. Device needs to switch power states without causing electrical arcing to prolong the life of connected appliances." vertex="1">
+          <mxGeometry height="130" width="100" x="440" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-27" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="16. Device must have internal overheating protection." vertex="1">
+          <mxGeometry height="130" width="100" x="1250" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-28" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="17. The device must be able to restored after current overload without needing to purchase replacement parts." vertex="1">
+          <mxGeometry height="130" width="100" x="80" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-29" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="18. User can access historical usage data to analyze trends over months or years." vertex="1">
+          <mxGeometry height="130" width="100" x="430" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-30" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="19. Device must maintain power delivery even for devices with very low energy consumption." vertex="1">
+          <mxGeometry height="130" width="100" x="560" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-31" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="20. User must be able to secure power strip to various surfaces." vertex="1">
+          <mxGeometry height="130" width="100" x="70" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-32" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="21. User needs to prevent small debris or small fingers from entering live electrical contacts." vertex="1">
+          <mxGeometry height="130" width="100" x="320" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-33" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="22. Allows for devices to be plugged in and always powered, not able to be accidentally turned off." vertex="1">
+          <mxGeometry height="130" width="100" x="670" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-34" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="23. Device should help prevent tangling of wires." vertex="1">
+          <mxGeometry height="130" width="100" x="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-35" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="24. Device should be able to operate without disturbing sleep." vertex="1">
+          <mxGeometry height="130" width="100" x="310" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-36" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="25. Visually/auditorily impaired users can still identify and operate the device." vertex="1">
+          <mxGeometry height="130" width="100" x="430" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-37" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="27. User should be able to add additional outlets without occupying more wall sockets." vertex="1">
+          <mxGeometry height="130" width="100" x="200" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-38" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="29. User needs the device to be well anchored enough to sit on the floor without sliding around when plugging things in." vertex="1">
+          <mxGeometry height="130" width="100" x="550" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-39" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="30. Device should allow for some sort of labeling of plugged in devices." vertex="1">
+          <mxGeometry height="130" width="100" x="670" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-41" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="31. User needs clear instructions on how to dismantle and recycle the electronic parts at the end of the product&#39;s life" vertex="1">
+          <mxGeometry height="130" width="100" x="1010" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-42" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="32. Device should be UV resistant." vertex="1">
+          <mxGeometry height="130" width="100" x="440" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-43" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="33. Device must somehow tell the user what is wrong with it for easy self-diagnosis." vertex="1">
+          <mxGeometry height="130" width="100" x="790" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-44" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="34. Any metal contacts should resist rust if used in humid areas." vertex="1">
+          <mxGeometry height="130" width="100" x="560" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-45" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="35. User needs to be able to see currency based on their specific local utility rate." vertex="1">
+          <mxGeometry height="130" width="100" x="190" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-46" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="36. User needs to know exactly what changes are being made to the device before agreeing to any externally pushed updates." vertex="1">
+          <mxGeometry height="130" width="100" x="310" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-47" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="37. Device should allow for ports to be turned on/off for semi-random periods of time.&amp;nbsp;" vertex="1">
+          <mxGeometry height="130" width="100" x="180" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-48" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="40. User needs high-power devices to receive power gradually to prevent breaker popping." vertex="1">
+          <mxGeometry height="130" width="100" x="800" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-49" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="41. Device needs to recognize specific sounds and respond accordingly, e.g. fire alarms." vertex="1">
+          <mxGeometry height="130" width="100" x="420" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-50" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="42. User needs a physical way to cut power to all outlets immediately in case of an emergency." vertex="1">
+          <mxGeometry height="130" width="100" x="1010" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-51" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="38. Device allows for one outlet to trigger another in a chain." vertex="1">
+          <mxGeometry height="130" width="100" x="300" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-54" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="43. Device needs to filter &quot;dirty electricity&quot; (noise) to protect sensitive audio equipment or computers." vertex="1">
+          <mxGeometry height="130" width="100" x="680" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-55" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="44. User needs to know exactly when the surge protection capacity is depleted.&amp;nbsp;" vertex="1">
+          <mxGeometry height="130" width="100" x="1130" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-56" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="45. Device should track outages." vertex="1">
+          <mxGeometry height="130" width="100" x="540" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;It should have flexible electrical applications and built-in protection.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="680" x="60" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-61" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" value="39. The user needs to let visitors control the device without giving permanent administrative rights." vertex="1">
+          <mxGeometry height="130" width="100" x="70" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should be easy to setup and be comfortable to use.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="690" x="60" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should be physically designed well &amp;amp; durable.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="780" x="60" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should easily connect and interface well with external or separate devices&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="830" x="60" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should provide advanced automated convenience/safety features&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="830" x="65" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should be safe and made with materials that are suitable for its intended use&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="780" x="1000" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Product should have a clear and sustainable end of life plan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="830" x="1005" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;New Ranking:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;1. Product should be physically designed well and durable.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2. Product should be safe and made with materials that are suitable for its intended use.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3. Product should have a clear and sustainable end of life plan.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3. Product should be easy to setup and be comfortable to use.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;4. It should have flexible electrical applications and built in protection.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5. Product should easily connect and interface well with external or separate devices.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;6. Product should provide advanced automated convenience/safety features.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="550" width="430" x="1010" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="aEzxMFNRf765peS1paN1-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Reasoning:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Along with the reasoning described previously, we ranked advanced automated features to be lowest priority because we understand them to not be essential to the original scope of the project. Furthermore, the needs in this meta statement/category was written entirely by AI so it is difficult to verify that they are real explicit/latent needs observed from users.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;The meta-need/category about sustainable end of life planning is put below safety and durability because those are essential to the product being made, but they are above the others because we understand the importance of making the product sustainable and as low of a cost to the environment as possible. Ideally we could also conduct a full life cycle analysis if this idea was made into a real product, to ensure that we follow this need.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="430" x="1450" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
