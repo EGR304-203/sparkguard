@@ -1,5 +1,8 @@
 ---
-title: Team Software Design
+title: Software Design
+tags:
+- tag1
+- tag2
 ---
 
 ## Introduction
