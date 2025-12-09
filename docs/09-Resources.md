@@ -23,6 +23,6 @@ For individual project files, please visit our individual datasheet webpages bel
 
 ## Looking for our additional  or older content?
 
-Please see our [Appendix-Team-Organization](https://egr304-203.github.io/sparkguard/Appendix/Appendix-Team-Org/)
+Please see our [Appendix-Team-Organization](https://egr304-203.github.io/sparkguard/Appendix/Appendix-Team-Org/)<br>
 Please see our [Old Content Archive](https://egr304-203.github.io/sparkguard/Appendix/Old%20content%20archive/)
 
