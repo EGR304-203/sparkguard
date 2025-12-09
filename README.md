@@ -14,4 +14,4 @@ We are making a smart outlet that can monitor power indoor and outdoor that does
 | Manuel Castro          | [mcastr11-collab](https://mcastr11-collab.github.io/EGR304MannyIndividualDataSheet/) |
 | Armando Botiller       | [botilarm](https://botilarm.github.io/) |
 
-Spark Guard Team Website ![Spark Guard](https://egr304-203.github.io/sparkguard/)
+Spark Guard Team Website [Spark Guard](https://egr304-203.github.io/sparkguard/)
