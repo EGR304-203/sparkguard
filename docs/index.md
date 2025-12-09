@@ -21,6 +21,8 @@ Kevin Nichols<br>
     <img src="team203projectpicture.png">
 p>
 
+<br>
+
 ## Team Introduction
 
 Our team got together with the simple goal of revitalizing the charging experience for everyone. Armando Botiller, Ayush Tathi, and Manuel Castro bring their expertise in Robotics Engineering together to innovate home solutions with sensor based technology and improve day to day life.
