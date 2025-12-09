@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Embedded Systems Design: Spark Guard<br>
 <font size="5">Team 203<br>
-**Submission: 12/06/2025**<br>
+**Submission: 12/08/2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -19,7 +19,7 @@ Kevin Nichols<br>
 
 <p align="center">
     <img src="team203projectpicture.png">
-p>
+</p>
 
 ## Team Introduction
 
@@ -38,7 +38,7 @@ We are making a smart outlet that can monitor power indoor and outdoor that does
 | Armando Botiller       | [botilarm](https://botilarm.github.io/) |
 
 ## Current Design Ideas
-> Please see our current design ideas here: [Ideation and Concept Generation](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/05-design-ideation/).
+> Please see our current design ideas here: [Ideation and Concept Generation](https://egr304-203.github.io/sparkguard/05-Design-ideation/).
 
 ## Team Block Diagram
-> Navigate here to see our team's diagram which shows an overview of our microcontroller's connections and communications: [Team Block Diagram](https://asu-egr304-2025-f-203.github.io/EGR304-203.github.io/06-team-block-diagram/).
+> Navigate here to see our team's diagram which shows an overview of our microcontroller's connections and communications: [Team Block Diagram](https://egr304-203.github.io/sparkguard/06-Team-block-diagram/).
