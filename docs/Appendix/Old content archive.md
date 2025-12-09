@@ -1,8 +1,5 @@
 ---
 title: "Old Content Archive"
-tags:
-- tag1
-- tag2
 ---
 
 ## First Draft <br>

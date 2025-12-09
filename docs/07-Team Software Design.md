@@ -29,6 +29,19 @@ Our current software proposal meets our requirements of localized control, voice
 2. We successfully represented the logic with the correct shapes [1].
 3. We decided an activity diagram best models our logic because our code will be instructions carried out one after another with only a few conditions that change the flow of operations, whereas a state machine model would mean each action has a condition before it [2].
 
+
+## Version 2.0
+
+From the lessons we learned about the project and our individual components, a Version 2.0 would place much stronger emphasis on customer-facing features and meeting requirements from the outset. In the first iteration, we spent too much time in the design ideation stage under the assumption that our primary goal was to create a fully functional, polished product. In reality, our focus should have been on ensuring that our design fulfilled the customer’s requirements first, and then determining how to build something viable and useful within those constraints.
+
+For Version 2.0, Armando’s current-sensing subsystem would concentrate on completing the postponed calculations—kilowatt-hour measurement, conversion to amperes, and instantaneous power in watts. These improvements are essential for achieving the stretch goal of a functional seven-segment display that provides meaningful energy-usage information to the user. Additional programming would be required to properly drive and update the display.
+
+For Ayush’s subsystem, a major improvement would be selecting a geared motor or a bi-directional linear actuator, since the unit used in Version 1.0 did not meet the requirements imposed by our client. If that requirement were relaxed, the existing actuator design would still be suitable for controlling a locking door mechanism for the smart outlet.
+
+For Manny’s subsystem, Version 2.0 should prioritize reducing the overall PCB size to better fit inside the outlet enclosure. The current design includes numerous jumpers and test points to support troubleshooting and to maintain flexibility in the event of part delays, but many of these could be consolidated or removed to simplify routing and reduce board area. Eliminating the audio gate entirely—which was ultimately unnecessary—would further decrease the footprint of the design.
+
+Across all PCBs, Version 2.0 would also address component-to-connector clearance issues, particularly around the micro-USB ports used for programming the PIC microcontrollers. Both Armando’s and Manny’s boards experienced interference problems that made it difficult to load firmware, and ensuring proper spacing in the next revision would significantly improve usability and manufacturability.
+
 ## External links
 1. [Link to Lucid Chart Diagram Source (Figure 1)](https://lucid.app/lucidspark/50a3b367-512a-4085-a351-7ba08a005a17/edit?viewport_loc=-1504%2C4113%2C4121%2C2114%2C0_0&invitationId=inv_718e862a-cc1e-4b68-8ead-81b798ccf1a2)
 
