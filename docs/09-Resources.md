@@ -1,5 +1,5 @@
 ---
-title: Appendix - Basic Markdown Examples
+title: Resources
 ---
 
 ## Introduction
